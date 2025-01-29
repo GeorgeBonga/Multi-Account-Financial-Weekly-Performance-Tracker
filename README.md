@@ -5,6 +5,8 @@
 
 ## Project Type  
 **Financial Tracking**  
+- [Excel file Download](https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/Multi-Account%20Financial%20Weekly%20Performance%20Tracker.xlsm)
+
 
 ## Navigation  
 - [Background & Overview](#background--overview)  
@@ -57,4 +59,15 @@ Planned enhancements include:
 
 🚀 **Advanced Analytics** – Deeper trade performance insights.  
 📊 **Power BI Integration** – Interactive data visualization.  
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/Enterdata.PNG" width="400"/>
+  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/dashboard.PNG" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/data1.PNG" width="400"/>
+  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/weeks.PNG" width="400"/>
+</p>
 
