@@ -5,7 +5,7 @@
 
 ## Project Type  
 **Financial Tracking**  
-- [Excel file Download](https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/Multi-Account%20Financial%20Weekly%20Performance%20Tracker.xlsm)
+- [Excel file Download](https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/Data/Multi-Account%20Financial%20Weekly%20Performance%20Tracker.xlsm)
 
 
 ## Navigation  
@@ -63,11 +63,11 @@ Planned enhancements include:
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/Enterdata.PNG" width="400"/>
-  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/dashboard.PNG" width="400"/>
+  <img src="Data/Enterdata.PNG" width="400"/>
+  <img src="Data/dashboard.PNG" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/data1.PNG" width="400"/>
-  <img src="https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker/blob/main/weeks.PNG" width="400"/>
+  <img src="Data/data1.PNG" width="400"/>
+  <img src="Data/weeks.PNG" width="400"/>
 </p>
 
