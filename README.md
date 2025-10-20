@@ -1,6 +1,6 @@
 # Multi-Account Financial Weekly Performance Tracker  
 
-## Tools  
+## Tools 
 **Microsoft Excel**  
 
 ## Project Type  
